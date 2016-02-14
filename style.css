@@ -28,11 +28,3 @@ margin:0;
 #hand {
   margin-left:5px;
 }
-@media (max-width: 480px) {
-  #myTab{
-    font-size: .7em;
-  }
-  #myTab a{
-    padding:1px;
-  }
-}
